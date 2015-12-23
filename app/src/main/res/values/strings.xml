@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VASpad</string>
+
+    <string name="textview_question">あなたの学生生活は充実していますか？</string>
+    <string name="textview_debug">X:000 , Y:000</string>
+    <string name="button_submit">確定</string>
+    <string name="action_settings">Settings</string>
+</resources>
